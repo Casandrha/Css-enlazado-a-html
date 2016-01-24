@@ -1,0 +1,44 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<head>
+      <link href ="file:///C:/Users/Usuario/Desktop/a.css" rel="stylesheet" type="text/css"/>
+	  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="author" content="Andrea Garibotto. 23/01/2016">
+	<meta name="description" content="A demonstration of what can be accomplished visually through CSS-based design.">
+	
+<title>Science and more</title>
+
+</head>
+<body>
+            <h1>El cerebro tiene <SPAN style="color:red">diez veces más memoria </SPAN>de lo que se pensaba</h1>
+			
+			<h2>El cerebro humano es 30 veces más rápido que los  superordenadores actuales</h2>
+			
+<p id="quote">Un equipo de investigadores del Instituto Salk de Estudios Biológicos en California, en colaboración con la Universidad de Texas en Austin,
+ ha llevado a cabo un estudio cuyos resultados han podido determinar que la capacidad de memoria del cerebro es diez veces superior a lo que se pensaba hasta ahora. </p>
+ </br>
+ <p id="a"> El estudio ha permitido obtener una visión del tamaño de las conexiones neuronales y observar tanto el diseño como la forma de las neuronas del hipocampo,
+ que es el centro de memoria del cerebro. Esta información revela que tienen un elevado poder de cómputo y que requieren de muy poca energía para realizar su tarea. </p>
+ 
+ <p id="b"> Nuestros recuerdos y pensamientos se producen como resultado de los patrones de actividad eléctrica y química de nuestra mente. Una parte fundamental de la
+ actividad se produce en las sinapsis, que son los puntos de unión entre unas neuronas y otras. Cada neurona puede tener millones de sinapsis. </p>
+ 
+ <p id="c"> Hasta el momento, los científicos sabían muy poco acerca de las conexiones neuronales. Pero en su estudio, estos investigadores han podido ver una reconstrucción
+ en 3D del tejido del hipocampo, lo que les ha permitido comprobar que hay sinapsis duplicadas y que se observa un rango diferente en los tamaños de éstas. </p>
+ 
+ <p id="d"> Como la información se almacena en estas conexiones, han aplicado algoritmos matemáticos para tener en cuenta las nuevas características observadas y volver a 
+ calcular la capacidad de memoria del cerebro. Sus resultados apuntan que la capacidad de la memoria es diez veces superior a lo que se pensaba.</p>
+ 
+ <p id="e"> Por otra parte, la investigación también ha permitido averiguar cuáles son los motivos que hacen posible la eficiencia energética del cerebro.
+ Gracias a este hallazgo, los ingenieros podrán tomar como referencia el funcionamiento del órgano para fabricar ordenadores más potentes con un menor consumo de energía. </p>
+ 
+ <p id="f"> <a href="http://computerhoy.com/noticias/life/cerebro-tiene-diez-veces-mas-memoria-que-pensaba-39409?utm_content=buffera167a&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer" target="_blank">Fuente: Computer Hoy </a> </p>
+ 
+ 
+ 
+</body>
+</html>
