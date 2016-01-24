@@ -1,0 +1,61 @@
+body{
+background-color:#fffadf;
+
+}
+
+
+#quote {
+position: absolute;
+border: 1px dotted #ffe762;
+top: 100px;
+left: 20px;
+right: 20px;
+}
+
+#a {
+font: italic 1.1em/2.2 georgia; 
+color: #3b3200; 
+text-align: left;
+
+}
+
+#b {
+color:#000c4f;
+font-weight: bold;
+line-height:24 px;
+text-indent:10 px;
+background-image: url(http://people.stfx.ca/x2011/x2011spv/info102/Assignment1/background.jpg);
+
+}
+
+#c {
+Padding-left:2px; 
+Padding-right:4px; 
+Padding-top:8px; 
+Padding-bottom:6px;
+}
+
+#d {
+color:#423800;
+font-size:large;
+font-family: monospace;
+font-weight:100;              /*determino ancho de caracteres*/
+font-style:oblique;           
+
+
+}
+
+#e {
+Margin-left:4cm;
+Margin-right:6cm;
+Margin-top:3cm;
+Margin-bottom:6cm;
+
+
+}
+
+#f {
+
+
+
+}
